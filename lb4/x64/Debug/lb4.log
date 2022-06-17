@@ -1,0 +1,8 @@
+﻿  Assembling Fun_ASM.asm...
+Fun_ASM.asm(1): error A2008: syntax error : .
+Fun_ASM.asm(2): error A2008: syntax error : .
+Fun_ASM.asm(13): error A2070: invalid instruction operands
+Fun_ASM.asm(20): error A2070: invalid instruction operands
+Fun_ASM.asm(42): error A2070: invalid instruction operands
+Fun_ASM.asm(44): warning A6004: procedure argument or local not referenced : C
+D:\VS\VS2022 Com\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Fun_ASM.obj" /W3 /errorReport:prompt  /TaFun_ASM.asm" с кодом "1".

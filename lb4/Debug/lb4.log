@@ -1,0 +1,7 @@
+﻿  Assembling Fun_ASM.asm...
+  Fun_C.cpp
+C:\Users\Saber\source\repos\lb4\lb4\Fun_C.cpp(7,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lb4.cpp
+C:\Users\Saber\source\repos\lb4\lb4\lb4.cpp(10,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  lb4.vcxproj -> C:\Users\Saber\source\repos\lb4\Debug\lb4.exe
